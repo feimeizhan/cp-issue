@@ -5,3 +5,5 @@ services:
     build:
       context: .
     container_name: cp-issue
+    ports:
+      - "9229:9229" # for inspect
