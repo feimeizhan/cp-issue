@@ -1,5 +1,5 @@
 # cp-issue
-To show the issue of child process module
+To show the issue of child process module,about [this issue](https://github.com/nodejs/help/issues/3417#issuecomment-947394802)
 
 ## Usage
 ### require
